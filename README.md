@@ -1,4 +1,5 @@
 # QualcommNvTool
+source code qt5 not free
 QualcommNvTool v1.0 - Read/Write NV[TXT] with advanced options
 
 QualcommNvTool v1.0
