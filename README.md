@@ -7,6 +7,7 @@ QualcommNvTool v1.0
 - Force Range Items [Write] Write Items From Files By manully ranges By Index
 - Read Diag/Complie Info/Current IMEI/MEID/SPC/MIN /Bluetooth Mac /wifi Mac
 - range NV Supported [0 - 65535]
+- send spc/pwd
 - tool is beta
 
 ![Pic](https://github.com/Muhmmad-Almuhmmah/QualcommNvTool/blob/main/imgs/1.png)
